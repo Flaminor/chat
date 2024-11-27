@@ -11,8 +11,7 @@ class Application(tk.Tk):
     
     def champ(self): 
         self.entree = tk.Entry(self)
-        self.entree.pack(fill = 'x',side= 'bottom')
-        
+        self.entree.pack(fill = 'x',side= 'bottom')      
 
 
 
